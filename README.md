@@ -1,6 +1,3 @@
-
-## Analysis consisted of following activities (in sequence)
-
   1. Visualizing daily marketing reach
   2. Calculating conversion rate and retention rate
   3. Visualizing daily conversion rate
